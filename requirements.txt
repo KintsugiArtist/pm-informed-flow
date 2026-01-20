@@ -1,0 +1,14 @@
+# PM Informed Flow - Polymarket Account Tracker
+# Core dependencies
+
+# CLI and display
+click>=8.1.0
+rich>=13.0.0
+
+# Blockchain APIs
+polygonscan-python>=1.0.2
+httpx>=0.25.0
+
+# Utilities
+python-dotenv>=1.0.0
+
